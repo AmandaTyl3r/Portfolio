@@ -1,6 +1,7 @@
 import React from "react";
 import '../style.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
+import TwoTruths from './TwoTruths';
 
 
 class About extends React.Component{
@@ -11,16 +12,17 @@ class About extends React.Component{
             <div id="about" className="about">
              <div className="container">
               <div className="row no-gutters">
-                <div className="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start"/>
+                {/* <div className="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start"/> */}
                     
                 
-                <div className="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch">
+                <div className="col-xl-10 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch">
                   <div className="content d-flex flex-column justify-content-center">
                     <h3>About Amanda</h3>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                     I'm a recruiter turned developer, looking to join a team where I can work alongside and learn from seasoned developers.
                     </p>
-                    <div className="row">
+                    <TwoTruths></TwoTruths>
+                    {/* <div className="row">
                       <div className="col-md-6 d-md-flex align-items-md-stretch">
                         <div className="count-box">
                           <i className="bi bi-emoji-smile" />
@@ -49,7 +51,7 @@ class About extends React.Component{
                           <p><strong>Awards</strong> rerum asperiores dolor alias quo reprehenderit eum et nemo pad der</p>
                         </div>
                       </div>
-                    </div>
+                    </div> */}
                   </div>{/* End .content*/}
                 </div>
               </div>
