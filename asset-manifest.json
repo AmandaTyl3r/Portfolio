@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6abc3a71.chunk.css",
-    "main.js": "/portfolio/static/js/main.a06f2520.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a06f2520.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.84181953.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.84181953.js.map",
-    "static/css/2.15a7a700.chunk.css": "/portfolio/static/css/2.15a7a700.chunk.css",
-    "static/js/2.6226ab65.chunk.js": "/portfolio/static/js/2.6226ab65.chunk.js",
-    "static/js/2.6226ab65.chunk.js.map": "/portfolio/static/js/2.6226ab65.chunk.js.map",
-    "static/js/3.bc3a272f.chunk.js": "/portfolio/static/js/3.bc3a272f.chunk.js",
-    "static/js/3.bc3a272f.chunk.js.map": "/portfolio/static/js/3.bc3a272f.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/2.15a7a700.chunk.css.map": "/portfolio/static/css/2.15a7a700.chunk.css.map",
-    "static/css/main.6abc3a71.chunk.css.map": "/portfolio/static/css/main.6abc3a71.chunk.css.map",
-    "static/js/2.6226ab65.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6226ab65.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/portfolio/static/media/me.a2d4c523.jpg"
+    "main.css": "/kerrwedding/static/css/main.0958ce6e.chunk.css",
+    "main.js": "/kerrwedding/static/js/main.afd45bdf.chunk.js",
+    "main.js.map": "/kerrwedding/static/js/main.afd45bdf.chunk.js.map",
+    "runtime-main.js": "/kerrwedding/static/js/runtime-main.5025d844.js",
+    "runtime-main.js.map": "/kerrwedding/static/js/runtime-main.5025d844.js.map",
+    "static/css/2.15a7a700.chunk.css": "/kerrwedding/static/css/2.15a7a700.chunk.css",
+    "static/js/2.c2d7ea89.chunk.js": "/kerrwedding/static/js/2.c2d7ea89.chunk.js",
+    "static/js/2.c2d7ea89.chunk.js.map": "/kerrwedding/static/js/2.c2d7ea89.chunk.js.map",
+    "static/js/3.a19800bc.chunk.js": "/kerrwedding/static/js/3.a19800bc.chunk.js",
+    "static/js/3.a19800bc.chunk.js.map": "/kerrwedding/static/js/3.a19800bc.chunk.js.map",
+    "index.html": "/kerrwedding/index.html",
+    "static/css/2.15a7a700.chunk.css.map": "/kerrwedding/static/css/2.15a7a700.chunk.css.map",
+    "static/css/main.0958ce6e.chunk.css.map": "/kerrwedding/static/css/main.0958ce6e.chunk.css.map",
+    "static/js/2.c2d7ea89.chunk.js.LICENSE.txt": "/kerrwedding/static/js/2.c2d7ea89.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/kerrwedding/static/media/me.a2d4c523.jpg",
+    "static/media/hero-bg.873e99d4.jpg": "/kerrwedding/static/media/hero-bg.873e99d4.jpg",
+    "static/media/logo.6ce24c58.svg": "/kerrwedding/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.84181953.js",
+    "static/js/runtime-main.5025d844.js",
     "static/css/2.15a7a700.chunk.css",
-    "static/js/2.6226ab65.chunk.js",
-    "static/css/main.6abc3a71.chunk.css",
-    "static/js/main.a06f2520.chunk.js"
+    "static/js/2.c2d7ea89.chunk.js",
+    "static/css/main.0958ce6e.chunk.css",
+    "static/js/main.afd45bdf.chunk.js"
   ]
 }
